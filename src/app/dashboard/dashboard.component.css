@@ -1,0 +1,13 @@
+.container {
+  padding: 3rem;
+
+  h1 {
+    font-size: 30px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    color: #5e5e5e;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+}

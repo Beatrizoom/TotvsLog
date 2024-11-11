@@ -1,0 +1,33 @@
+header {
+  width: 100%;
+  background: linear-gradient(to right, gray, black);
+  display: flex;
+  justify-content: space-between;
+  padding: 1.2rem 2rem;
+  box-shadow: 0 0 10px 5px rgba(119, 119, 119, 0.8);
+
+  nav {
+    & a {
+      text-decoration: none;
+      color: #ffffff;
+      margin: 1rem;
+      font-size: 0.928rem;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+.poppins-light{
+  color: rgb(255, 255, 255);
+  background: linear-gradient(to right, gray, rgb(65, 65, 65));
+  font-size: 13px;
+  border-radius: 20px;
+  padding: 5px;
+  width: 100px;
+  margin: 2px;
+
+
+
+}
